@@ -32,7 +32,7 @@ Jogo simples e interativo onde o jogador tenta adivinhar um número aleatório e
 
 ## 📸 Captura de Tela
 
-![Imagem do Jogo](jogo-numero-secreto.png)
+![Imagem do Jogo](img/jogo-numero-secreto.png)
 
 ## 👤 Autor
 
