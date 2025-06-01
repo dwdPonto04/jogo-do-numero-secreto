@@ -28,11 +28,11 @@ Jogo simples e interativo onde o jogador tenta adivinhar um número aleatório e
 
 ## 🌐 Acesse o Jogo Online
 
-👉 [Clique aqui para jogar](jogo-gamma-mocha-34.vercel.app)
+👉 [Clique aqui para jogar](https://jogo-gamma-mocha-34.vercel.app/)
 
 ## 📸 Captura de Tela
 
-![Imagem do Jogo](091843.png)
+![Imagem do Jogo](jogo-numero-secreto.png)
 
 ## 👤 Autor
 
